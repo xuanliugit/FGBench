@@ -13,6 +13,24 @@
 
 * 2025.9: This work has been accepted by [NeurIPS 2025 D&B Track](https://neurips.cc/virtual/2025/poster/121617).
 
+## Introduction
+### Fine-grained molecular property reasoning like a chemist. 
+
+<img src="./img/fgbench_vs.png" width="50%" />
+
+### Gain FG knowlegde and data augmentation 
+
+<img src="./img/fgbench_datacons.png" width="50%" />
+
+### Data example
+
+<img src="./img/fgbench_example.png" width="50%" />
+
+### Dataset overview
+
+<img src="./img/fgbench_table.png" width="50%" />
+
+
 ## Quick start
 ### Usage 
 
