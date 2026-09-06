@@ -12,3 +12,4 @@ scikit_learn==1.7.2
 swifter==1.4.0
 tqdm==4.67.1
 utils==1.0.2
+datasets>=3.0.0
